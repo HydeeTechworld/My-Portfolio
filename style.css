@@ -1,0 +1,31 @@
+.image{
+height:100%;
+object-fill:cover;
+filter:brightness(0.6);
+}
+body{
+background-color:#101010 
+}
+h1,h3,h4,h5,p{
+color:white;
+text-align:center
+}
+main{
+border:20px solid #010101;
+background-color:#101010;
+}
+#skill{
+border:20px solid #010101;
+background-color:#101010;
+}
+h6{
+color:white;
+text-align:center 
+}
+#project{
+border:20px solid #010101 
+}
+footer{
+border:20px solid #010101;
+background-color:#101010 
+}
