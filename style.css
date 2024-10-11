@@ -33,11 +33,12 @@ background-color:#101010
 color:white;
 display:flex;
 justify-content:center;
-flex-direction:space-between 
+flex-wrap:wrap;
+gap:30px;
 }
 .contact	>i{
 width:100%;
 text-align:center;
 height:5vh;
-font-size:40px
+font-size:35px;
 }
