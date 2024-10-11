@@ -29,3 +29,15 @@ footer{
 border:20px solid #010101;
 background-color:#101010 
 }
+.contact{
+color:white;
+display:flex;
+justify-content:center;
+flex-direction:space-between 
+}
+.contact	>i{
+width:100%;
+text-align:center;
+height:5vh;
+font-size:40px
+}
