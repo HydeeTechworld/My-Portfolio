@@ -33,7 +33,7 @@ background-color:#101010
 color:white;
 display:flex;
 flex-wrap:wrap;
-justify-content:center;
+justify-content:space-between;
 gap:30px;
 }
 .contact>i{
